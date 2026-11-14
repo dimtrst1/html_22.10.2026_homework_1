@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://cdn.lifehacker.ru/wp-content/uploads/2025/01/milaya_kartinka_syurpriz_kotoraya_podnimaet_nastroenie_1735231354.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container {
+    width: 800px;
+    background-color: rgb(28, 29, 29);
+    opacity: 0.9;
+    padding: 10px;
+    margin: 30px auto;
+    
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+}
